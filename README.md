@@ -19,7 +19,7 @@ This Mobile Power Supply / Power Bank contains a large LiPo battery and can prov
 
 ## Schema
 
-![MobilePowerSupply left](images/MPS-left.jpeg "MobilePowerSupply left")
+![MobilePowerSupply Schema](MobilePowerSupply-Schema.jpg "MobilePowerSupply Schema")
 
 
 ## Parts: 
