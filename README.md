@@ -35,5 +35,14 @@ https://de.aliexpress.com/item/33033899015.html?spm=a2g0s.9042311.0.0.27424c4dz5
 - [Battery Management System 7S,  24V 20A](https://www.aliexpress.com/snapshot/0.html?spm=a2g0s.9042647.6.2.23384c4d1xL56h&orderId=8002237916849920&productId=33060127967)
 
     ![BMS](images/BMS.png "BMS")
-- []()
-- []()
+- [USB 5V Step Down Converter  XY-3606](https://de.aliexpress.com/item/32894669575.html?spm=a2g0s.12269583.0.0.39655eb741bDrY)
+
+    ![5V StepDown Converter XY-3606_](images/XY-3606_5V_StepDown.jpg "XY-3606_5V_StepDown.jpg")
+
+- [5,5mm x 2,1mm Power Jack](https://de.aliexpress.com/item/32998053822.html?spm=a2g0s.12269583.0.0.23bc6e835vU3Q4)
+
+- [DC 400W 15A Schritt-up Boost Converter](hhttps://de.aliexpress.com/item/32946740719.html?spm=a2g0s.9042311.0.0.1ec64c4duLV4ig)
+
+    ![DC 400W 15A Step-up Boost Converter](images/DC_400W_15A_Schritt-up_Boost_Converter.jpg "XY-3606_5V_StepDown.jpg")
+
+    
